@@ -45,7 +45,7 @@ public class weatherApp {
         forecast mForecast;
 
   //  public static String dbName = "http://127.0.0.1:5984/weather";
-    //http://api.openweathermap.org/data/2.5/forecast/daily?appid=0da6960ae510202d1f8633e08e075162&zip=03031&mode=json&units=imperial&cnt=7
+    //http://api.openweathermap.org/data/2.5/forecast/daily?appid={get your own}&zip=03031&mode=json&units=imperial&cnt=7
 
     /**
      * Entry point and a basic means to test all methods.
